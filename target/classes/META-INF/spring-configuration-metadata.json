@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "secure.ignore",
+      "type": "com.yiwu.gateway_server.config.IgnoreUrlsConfig",
+      "sourceType": "com.yiwu.gateway_server.config.IgnoreUrlsConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "secure.ignore.urls",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.yiwu.gateway_server.config.IgnoreUrlsConfig"
+    }
+  ],
+  "hints": []
+}
